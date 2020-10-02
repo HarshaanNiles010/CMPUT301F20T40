@@ -1,15 +1,15 @@
-vchugh vaibhavchugh17
+Name - Vaibhav Chugh 		CCID- vchugh 		github id - vaibhavchugh17
 <<<<<<< HEAD
 <<<<<<< HEAD
-phooda paramhooda
+Name - Param Hood 		CCID- phooda 		github id - paramhooda
 =======
-srawal Siddhant64      
+Name - Siddhant Rawal 		CCID- srawal 		github id- Siddhant64      
 >>>>>>> 4cb6576339a2a5dbd6b04183ed6ca5bbe72d32e1
 =======
 test commit
-Name- Loyaljot Singh Bajwa  CCID- loyaljot  github id - bajwa10
+Name- Loyaljot Singh Bajwa  	CCID- loyaljot  	github id - bajwa10
 >>>>>>> 8f4cee589058ba38bd4e9b07d71ded354a700790
-Name- Harshaan Singh Babra CCID: 1582916 github id: HarshaanNiles010
+Name- Harshaan Singh Babra 	CCID: 1582916 		github id: HarshaanNiles010
 
-Loyal Chutiya hai
+
 
